@@ -3,7 +3,7 @@
 A smooth 3D infinite scrolling image gallery built with GSAP and Vite.
 
 ## Preview
-<video src="./preview.mp4" controls="controls" muted="muted" style="max-width: 100%;"></video>
+![Preview Demo](preview.gif)
 
 ## Live Demo
 Check out the live Vercel deployment: [https://visionarrry.vercel.app](https://visionarrry.vercel.app)
