@@ -1,15 +1,13 @@
-# VISIONARRRY
+<h3 align="center"><b>VISIONARY</b></h3>
 
-A smooth 3D infinite scrolling image gallery built with GSAP and Vite.
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,vite" /></p>
+
+Get ready to be amazed! This project is a beautiful web experiment pushing the boundaries of what is possible in the browser.
+
+## 🚀 Live Website
+Experience the fully interactive website live here: [https://visionarrry.vercel.app](https://visionarrry.vercel.app)
 
 ## Preview
 ![Preview Demo](preview.gif)
 
-## Live Demo
-Check out the live Vercel deployment: [https://visionarrry.vercel.app](https://visionarrry.vercel.app)
-
-## Local Development
-1. `npm install`
-2. `npm run dev`
-
-Made by **Y7XIFIED**
+<div align="center"><p>Y7XIFIED</p></div>
