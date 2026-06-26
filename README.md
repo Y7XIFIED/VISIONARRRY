@@ -18,8 +18,8 @@ Interact dynamically with your mouse or touch to explore the visual effects! Mov
 ### Setup Instructions
 1. Clone the repository:
 ```bash
-git clone https://github.com/Y7XIFIED/VISIONARRRY.git
-cd VISIONARRRY
+git clone https://github.com/Y7XIFIED/Visionary.git
+cd Visionary
 ```
 2. Install the package dependencies:
 ```bash
@@ -32,7 +32,7 @@ npm run dev
 
 ## 📂 Project Structure
 ```text
-VISIONARRRY/
+Visionary/
 ├── .gitignore
 ├── .vercel
 │   ├── project.json
